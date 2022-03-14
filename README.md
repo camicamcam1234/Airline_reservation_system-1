@@ -1,2 +1,2 @@
 # MAKMAirlines
-A software that performs on-line reservation tasks for an airline company. Some functions of the software include: reserve, cancel, review, change and generate some type of reports for the managers. The confirmation should be sent to the traveler.
+A product that performs on-line reservation undertakings for a carrier organization. A few elements of the product include: hold, drop, survey, change and create some kind of reports for the administrators. The affirmation should be shipped off the explorer.
